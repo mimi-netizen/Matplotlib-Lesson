@@ -10,5 +10,5 @@ df = pd.DataFrame({
 # print(df)
 
 df.plot(x='x',y='y',kind="area")
-plt.title("This is the area plot")
+plt.title("This is the Area plot")
 plt.show()
